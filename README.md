@@ -3,3 +3,4 @@
 # Integrantes:
 
 - Pedro Vega
+- Francisco Aguilar 
